@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-game-2048:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-14T19:32:44.509043+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 346393707736eeed522c0dad5c339c8f1a448e5cc11faf5da33f9b3f74e09db7
+    name: my-game-2048
+    type: application
+    urls:
+    - my-game-2048-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-06-14T19:32:44.508302+08:00"
